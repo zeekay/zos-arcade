@@ -1,5 +1,7 @@
 # 🕹️ Arcade
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/zos-arcade&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/zos-arcade&ref=main&action=edit)
+
 Retro gaming arcade - NES, SNES, Genesis, GBA and more
 
 ## Category
